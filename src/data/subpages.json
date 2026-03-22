@@ -1,0 +1,71 @@
+{
+  "research": {
+    "title": "Research",
+    "currentProjects": [
+      "Causal inference for complex systems: Novel tools for understanding causal interactions particularly in high dimensional systems/ networks. Applications to climate, paleoclimate and neuroscience.",
+      "EEG analysis for prediction of early response to antidepressants: EEG based brain connectivity and complexity analysis for patients suffering from Major Depressive Disorder. Developing methods for identifying patients who will respond to antidepressant treatment in a timely manner.",
+      "Hybrid neurochaos Learning-reservoir computing architecture: Novel machine learning architecture using neurochaos learning in reservoir computing framework for prediction of time series from dynamical systems."
+    ],
+    "pastProjects": [
+      "PhD Thesis: Theoretical and Experimental Investigations into Causality, its Measures and Applications. Thesis Advisor: Dr. Nithin Nagaraj, NIAS. Determining cause-effect relationships between variables based on time-series measurements has widespread applications in several scientific disciplines. Model-free measures of causality estimation that do not impose an underlying causal mechanism on the data are especially useful in this regard. This research aimed at developing novel data-based causality measures that make less assumptions and can make causal inferences by interventional means. The methods were tested on simulated and real-world data. In another line of work, causality conditions were provided for synchronization in the case of coupled dynamical systems.",
+      "Masters Thesis: A Robust Ultrasound Doppler Spectral Envelope Detection Technique for Automated Blood Flow Measurements. Thesis Advisors: Prof. Hans Torp and Prof. Sturla Eik Nes, Norwegian University of Science and Technology (NTNU), Norway. Accurate maximum velocities and spectral envelope estimation based on ultrasound Doppler blood flow spectrograms are essential for clinical diagnostic purposes. However, due to intrinsic spectral broadening in the power spectrum it becomes difficult to accurately determine these. In this work, we proposed a novel signal processing based method for maximum velocity detection. Data adaptive elimination of erroneous velocity estimates helped yield a smoother spectral envelope for clinical indices estimation."
+    ]
+  },
+  "affiliations": {
+    "title": "Previous Affiliations",
+    "items": [
+      "2021-2024: Postdoctoral Researcher, Institute of Computer Science of the Czech Academy of Sciences, Czech Republic. Projects: Interactions in Complex systems: Causal discovery from irregularly sampled data and applications on climate data, Causal discovery from sparse data; Brain connectivity analysis for depression and its treatment.",
+      "2015-2016: Research Assistant, Norwegian University of Science and Technology (NTNU), Norway. Projects: Ultrasound Doppler Signal Processing and Spectral Envelope Detection, Experimental studies for low-cost finger Doppler device for early diabetic assessment, Safety measurements for different transducer settings to obtain ethical approval for patient studies.",
+      "2014 Summer: Research Intern, GE Global Research Centre, JFWTC, Bengaluru, India. Project: Quantitative Ultrasound for Characterization of Liver Phantoms.",
+      "2013 Summer: Research Intern, Maternal Health Technology Division, Vivekananda Tribal Hospital, Bastar, India. Project: To Explore the Scope of a Low End Doppler Machine in Determining Feto-Maternal Health."
+    ]
+  },
+  "publications": {
+    "title": "Publications",
+    "items": [
+      "Kathpalia, A., & Nagaraj, N. (2023). Granger causality for compressively sensed sparse signals. Physical Review E 107(3), 034308.",
+      "Kathpalia, A., Manshour, P. & Paluš, M. (2022). Compression complexity with ordinal patterns for robust causal inference in irregularly sampled time series. Scientific Reports, 12, 14170.",
+      "Kathpalia, A., & Nagaraj, N. (2021). Time-reversibility, causality and compression-complexity. Entropy, 23(3), 327.",
+      "Kathpalia, A., & Nagaraj, N. (2021). Measuring Causality: The Science of Cause and Effect. Resonance: Journal of Science Education, 26(2), 191-210.",
+      "Balakrishnan, H.N., Kathpalia, A., Saha, S. and Nagaraj, N. (2019). ChaosNet: A chaos based artificial neural network architecture for classification. Chaos: An Interdisciplinary Journal of Nonlinear Science, 29(11), 113125.",
+      "Kathpalia, A. and Nagaraj, N. (2019). Causal stability and synchronization. Chaos: An Interdisciplinary Journal of Nonlinear Science, 29(9), 091103.",
+      "Kathpalia, A. & Nagaraj, N. (2019). Data-based intervention approach for complexity-causality measure. PeerJ Computer Science, 5, e196.",
+      "Kathpalia, A., Karabiyik, Y., Eik-Nes, S. H., Tegnander, E., Ekroll, I. K., Kiss, G. & Torp, H. (2016). Adaptive spectral envelope estimation for doppler ultrasound. IEEE transactions on ultrasonics, ferroelectrics, and frequency control,63(11), 1825-1838."
+    ]
+  },
+  "presentations": {
+    "title": "Conference presentations and proceedings",
+    "items": [
+      "Kathpalia, A., Manshour, P. & Paluš, M. (2024). Compression-complexity based estimation of Causality: Applications in Earth and Climate Sciences. Poster presentation at European Geosciences Union General Assembly 2024, Vienna, Austria, 14-19 April, 2024.",
+      "Kathpalia, A., Manshour, P. & Paluš, M. (2023). Causal inference for time series using compression-complexity. Oral presentation at Dynamics Days Europe, Naples, Italy, 3-8 September, 2023.",
+      "Kathpalia, A. & Nagaraj, N. (2023). Spectral estimation based on compressibility. Oral presentation at Perspectives in Nonlinear Dynamics, IIT Madras, Chennai, India, 1-4 August, 2023.",
+      "Paluš, M., Kathpalia, A. & Brunovský, M. (2023). EEG Connectivity in Treatment of Major Depressive Disorder: Tackling the Conductivity Effects. In Proceedings of 14th International Conference on Measurement. Oral presentation by M.P. in Smolenice, Slovakia, 29-31 May, 2023.",
+      "Bhattacharjee, M., Kathpalia, A., Brunovský, M. & Paluš, M. (2023). Phase-based Causality Analysis of EEG in Treatment of Major Depressive Disorder. In Proceedings of 14th International Conference on Measurement. Oral presentation by M.B. in Smolenice, Slovakia, 29-31 May, 2023.",
+      "Ghosh, A., Bhattacharjee, M., Kathpalia, A., Brunovský, M. & Paluš, M. (2023). Phase Dynamics and Directed EEG Connectivity in Treatment of Major Depressive Disorder. In Proceedings of 14th International Conference on Measurement. Oral presentation by A.G. in Smolenice, Slovakia, 29-31 May, 2023.",
+      "Hlaváčková-Schindler, K., Pacher, C., Plant, C., Lazarenko, M., Paluš, M., Hlinka, J., Kathpalia, A. & Brunovský, M. (2023). Pattern Discovery in an EEG Database of Depression Patients: Preliminary Results. In Proceedings of 14th International Conference on Measurement. Oral presentation by K.S. in Smolenice, Slovakia, 29-31 May, 2023.",
+      "Kathpalia, A., Balakrishnan, H. N., & Nagaraj, N. (2023). A hybrid Neurochaos Learning-Reservoir Computing architecture for prediction. Dynamics Days US. Online poster presentation by H.N.B., 9 – 11 Jan, 2023.",
+      "Balakrishnan, H. N., Kathpalia, A., & Nagaraj, N. (2022). Causality Preserving Chaotic Transformation and Classification using Neurochaos Learning. Advances in Neural Information Processing Systems (Proceedings of NeurIPS 2022). Online presentation by H.N.B., 28 Nov – 9 Dec, 2022.",
+      "Kathpalia, A., Manshour, P. & Paluš, M. (2022). Permutation Compression-Complexity Causality for robust causal inference from irregularly sampled time series , Oral presentation at Conference on Complex Systems (CCS22), Palma de Mallorca, Spain, 17-21 October, 2022.",
+      "Nagaraj, N. & Kathpalia, A. (2022). Strengths of Effort-To-Compress Complexity for analyzing time series from complex systems, Poster presentation at Conference on Complex Systems (CCS22), Palma de Mallorca, Spain, 17-21 October, 2022.",
+      "Kathpalia A. & Nagaraj N. (2022). Multivariate Granger Causal Discovery for Compressively Sensed Signals. Oral presentation at NETDAT22 workshop, Max Planck Institute for the Physics of Complex Systems, Dresden, Germany, 12-21 September, 2022.",
+      "Kathpalia, A., Manshour, P. & Paluš, M. (2022). Robust Causal Inference for Irregularly Sampled Time Series from Dynamical Systems, University of Aberdeen, UK, Oral presentation at Dynamics Days Europe, University of Aberdeen, UK, 22-26 August, 2022.",
+      "Kathpalia A. and Nagaraj N. (2022). Causal Properties of Synchronizing Systems, Oral presentation at Dynamics Days Europe, University of Aberdeen, UK, 22-26 August, 2022.",
+      "Kathpalia, A., Manshour, P. & Paluš, M. (2022). Robust Causal Inference for Irregularly Sampled Time Series: Applications in Climate and Paleoclimate Data Analysis. Oral presentation at The General Assembly of the European Geosciences Union (EGU22), Vienna, Austria, 23-27 May, 2022.",
+      "Kathpalia, A., Manshour, P. & Paluš, M. (2022). Ordinal Patterns for ‘Compression-Complexity’ based Causality Detection. Oral presentation at International Workshop on Ordinal methods: Concepts, applications, new developments and challenges (ORPATT22), Max Planck Institute for the Physics of Complex Systems, Dresden,Germany (Online), 28 Feb-4 March, 2022.",
+      "... and additional proceedings available at the original source."
+    ]
+  },
+  "talks": {
+    "title": "Invited talks",
+    "items": [
+      "Introduction to Causal Discovery from Time Series, Online Seminar for Donana Biological Station – CSIC, Sevilla, Spain, 20 November, 2023.",
+      "Causality and Machine Learning, Seminar Hora Informaticae, Institute of Computer Science of the Czech Academy of Sciences, Czech Republic, 30 May, 2023.",
+      "Causality and Machine Learning, International (Online) Workshop on Reservoir Computing and Neural Networks, Indian Institute of Technology Madras, India, 23-24 November, 2022",
+      "Model-free Causality Estimation, Theoretical Implications and Applications, Centre for Neuroscience, IISc, Bengaluru, 24 October, 2019.",
+      "Contemplating the mystery of our ‘selves’: Glimpses from neurological disorders, Reading Glass Presentation, Consciousness Studies Programme, NIAS, Bengaluru, 26 April, 2019.",
+      "A Compression-Complexity Approach to Causality Testing, Department of Data Analysis, University of Ghent, Belgium, 17 September, 2018.",
+      "Mathematical Methods in Neuroscience with Emphasis on EEG Analysis: Granger Causality Analysis, technical talk at One-day Symposium on Current Approaches to EEG Analysis, CNSI-NIMHANS Lecture Series, NIMHANS, Bengaluru, 19 January, 2018.",
+      "On the limitations of Causality Measures in Neuroscience, Bioengineering Symposium, IISc, Bengaluru, 27-28 January 2017."
+    ]
+  }
+}

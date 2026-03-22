@@ -1,0 +1,35 @@
+{
+  "siteTitle": "Mukesh Kumar",
+  "welcomeTitle": "Welcome",
+  "introParagraphs": [
+    "I am an Assistant Professor in the Department of Applied Mechanics and Biomedical Engineering at Indian Institute of Technology Madras, India. My research group will focus on the analysis of signals and time-series, and their prediction with applications in neuroscience, cardiovascular dynamics as well as earth sciences. We will develop novel robust methods inspired from spectral analysis, information theory, non-linear dynamics and causal discovery for characterization of signals and time-evolving networks. Transparent methods based on causal and chaos-inspired machine learning will be developed and used for their prediction.",
+    "Previously, I was a postdoctoral researcher at the Department of Complex Systems, Institute of Computer Science of the Czech Academy of Sciences. Here, I worked on projects related to interactions and causality in complex systems (particularly brain and climate).",
+    "I completed my PhD thesis on 'Theoretical and Experimental Investigations into Causality, its Measures and Applications' from the National Institute of Advanced Studies (NIAS), IISc Campus, Bengaluru, India. My bachelors and masters degree are in the field of Biomedical Engineering from Indian Institute of Technology (BHU), Varanasi, India."
+  ],
+  "links": [
+    { "title": "Research", "url": "/research" },
+    { "title": "Previous Affiliations", "url": "/previous-affiliations" },
+    { "title": "Publications", "url": "/publications" },
+    { "title": "Conference presentations", "url": "/presentations" },
+    { "title": "Talks", "url": "/talks" },
+    { "title": "Miscellaneous", "url": "/miscellaneous" }
+  ],
+  "cv": {
+    "text": "My Curriculum Vitae",
+    "url": "https://aditikathpalia.wordpress.com/wp-content/uploads/2023/01/cv_for_site2.pdf",
+    "buttonText": "Download"
+  },
+  "contact": {
+    "title": "Contact",
+    "address": "Address: Department of Applied Mechanics and Biomedical Engineering, Mechanical Sciences Block, Alumni Ave, IIT Madras, Chennai 600036",
+    "email": "Email: kathpaliaaditi@gmail.com, aditi@iitm.ac.in",
+    "linkedin": {
+      "text": "My LinkedIn Profile",
+      "url": "http://www.linkedin.com/in/aditi-kathpalia-48b8a538"
+    }
+  },
+  "footer": {
+    "text1": "Mukesh Kumar",
+    "text2": ""
+  }
+}
