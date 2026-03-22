@@ -62,7 +62,7 @@ const  WelcomeSection = () => {
   };
   
   // Use local profile image downloaded by the fetch script
-  const profileImageUrl = "/hero.png";
+  const profileImageUrl = "/download.jpg";
 
   return (
     <div style={styles.container}>
